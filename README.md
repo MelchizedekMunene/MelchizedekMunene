@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @MelchizedekMunene
--     I have a passion in Web development and building web applications.
-- 👀 I’m interested in learning new techologies buidling state of the art appliactions
-- 🌱 I’m currently learning Software development in KCA University 
-- 📫 You can reach me through my X account 
-
-<!---
-MelchizedekMunene/MelchizedekMunene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm Melchizedek Munene, a passionate web developer and a student at KCA University. I'm deeply enthusiastic about crafting engaging web experiences and solving real-world problems through code. Whether it's building dynamic websites, creating interactive web applications, or diving into the latest web technologies, I'm always eager to learn and experiment. Feel free to explore my repositories, where I showcase my journey in web development and share projects ranging from frontend designs to backend systems. Let's connect and innovate together in the exciting world of web development!
+I would want to explore other avenues of software engineering and welcome all types of collaborators
+Lets build together!
