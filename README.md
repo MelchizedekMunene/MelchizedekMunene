@@ -1,4 +1,4 @@
-👋 Hi, I'm Richnond Koome — a Software Engineer from Nairobi, Kenya, specialising in full-stack web development and mobile applications.
+👋 Hi, I'm Richmond Koome — a Software Engineer from Nairobi, Kenya, specialising in full-stack web development and mobile applications.
 🔭 What I build:
 
 Full-stack web apps with React, Next.js, Node.js, and PostgreSQL
@@ -14,4 +14,4 @@ Resolved a live payment gateway failure using Pesapal API within 48hrs, saving K
 Distributed AI Hackathon participant — reduced ML data processing time by 35% using TensorFlow & PyTorch
 
 💼 Featured Projects: Car Marketplace · Hotel Reservation System · Habit Tracker App · Clergy Welfare Platform · Shamah Hardware E-Commerce
-📫 Reach me: richmondkoome1300@gmail.com | LinkedIn
+📫 Reach me: richmondkoome1300@gmail.com 
