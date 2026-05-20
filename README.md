@@ -4,8 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Melchizedek%20Munene&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Nairobi%2C%20Kenya&descAlignY=58&descSize=18&descColor=a8d8ea" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-melchizedekmunene-0a192f?style=for-the-badge&logo=vercel&logoColor=white)](https://melchizedekmunene-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melchizedek-munene)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melchizedek-munene-081096245/)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melchizedekmunene@gmail.com)
 
 </div>
 
@@ -64,35 +64,35 @@ When I'm not shipping code, I'm sharing what I know as an **ICT Trainer at Beaco
 
 ## 🚀 Featured Projects
 
-### 🛒 [Shamah Hardware E-Commerce](https://melchizedekmunene-portfolio.netlify.app/)
+### 🛒 [Shamah Hardware E-Commerce]
 > Full-stack MERN e-commerce platform with M-Pesa (STK Push) payments, AI-generated product descriptions via Groq, inventory management, and admin dashboard.
 
 **Stack:** React · Node.js · MongoDB · M-Pesa API · Groq AI · Multer · JWT
 
 ---
 
-### 🚗 [Car Marketplace](https://melchizedekmunene-portfolio.netlify.app/)
+### 🚗 [Car Marketplace]
 > A modern vehicle listing and browsing platform with advanced filtering, user authentication, and responsive design.
 
 **Stack:** React · Next.js · PostgreSQL · Prisma · Tailwind CSS
 
 ---
 
-### 🏨 [Hotel Reservation System](https://melchizedekmunene-portfolio.netlify.app/)
+### 🏨 [Hotel Reservation System]
 > End-to-end hotel booking system with room availability management, booking confirmations, and admin controls.
 
 **Stack:** React · Node.js · MongoDB · Express · REST API
 
 ---
 
-### ✅ [Habit Tracker App](https://melchizedekmunene-portfolio.netlify.app/)
+### ✅ [Habit Tracker App]
 > Mobile-first habit tracking application with streaks, analytics, and daily reminders.
 
 **Stack:** React Native · MongoDB · Node.js
 
 ---
 
-### ⛪ [Clergy Welfare Platform](https://melchizedekmunene-portfolio.netlify.app/)
+### ⛪ [Clergy Welfare Platform]
 > A welfare and resource management system for clergy, featuring member registration, welfare applications, and reporting.
 
 **Stack:** C# · Entity Framework · SQL Server · ASP.NET
@@ -125,8 +125,8 @@ I'm available for **freelance projects**, **contract work**, and **full-time eng
 | | |
 |---|---|
 | 🌐 Portfolio | [melchizedekmunene-portfolio.netlify.app](https://melchizedekmunene-portfolio.netlify.app/) |
-| 📧 Email | your@email.com |
-| 💼 LinkedIn | linkedin.com/in/melchizedek-munene |
+| 📧 Email | melchizedekmunene@gmail.com |
+| 💼 LinkedIn | https://www.linkedin.com/in/melchizedek-munene-081096245/ |
 
 <div align="center">
 
